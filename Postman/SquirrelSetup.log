@@ -1,0 +1,13 @@
+﻿2019-02-24 15:17:05> Program: Starting Squirrel Updater: --createShortcut=Postman.exe
+2019-02-24 15:17:05> ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\LvHuifeng\AppData\Local\Postman
+2019-02-24 15:17:05> ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\LvHuifeng\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+2019-02-24 15:17:06> ApplyReleasesImpl: About to save shortcut: C:\Users\LvHuifeng\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\LvHuifeng\AppData\Local\Postman\Update.exe, workingDir C:\Users\LvHuifeng\AppData\Local\Postman\app-6.7.3, args --processStart "Postman.exe")
+2019-02-24 15:17:06> ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\LvHuifeng\Desktop\Postman.lnk
+2019-02-24 15:17:06> ApplyReleasesImpl: About to save shortcut: C:\Users\LvHuifeng\Desktop\Postman.lnk (target C:\Users\LvHuifeng\AppData\Local\Postman\Update.exe, workingDir C:\Users\LvHuifeng\AppData\Local\Postman\app-6.7.3, args --processStart "Postman.exe")
+2019-02-24 15:17:06> ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+2019-02-24 15:22:21> Program: Starting Squirrel Updater: --processStart Postman.exe
+2019-02-24 15:22:22> Program: Want to launch 'C:\Users\LvHuifeng\AppData\Local\Postman\app-6.7.3\Postman.exe'
+2019-02-24 15:22:22> Program: About to launch: 'C:\Users\LvHuifeng\AppData\Local\Postman\app-6.7.3\Postman.exe': 
+2019-02-24 20:17:15> Program: Starting Squirrel Updater: --processStart Postman.exe
+2019-02-24 20:17:15> Program: Want to launch 'C:\Users\LvHuifeng\AppData\Local\Postman\app-6.7.3\Postman.exe'
+2019-02-24 20:17:15> Program: About to launch: 'C:\Users\LvHuifeng\AppData\Local\Postman\app-6.7.3\Postman.exe': 

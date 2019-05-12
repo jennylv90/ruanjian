@@ -1,0 +1,18 @@
+{
+    "menu": "菜单",
+	"placeholder":{
+		"put_text": "Put some text here.",
+		"put_url": "http://Put-target-url-here"
+	},
+    "msg": {
+		"need_def_link": "Need to define the reference link <b>[{0}]</b> with syntax <b>[{1}]: www.example.com</b>",
+		"need_def_foot": "Need to define the reference footnote <b>[^{0}]</b> with syntax <a>[^{1}]: www.example.com</a>",
+		"reload_confirm":"文件内容已被更改，是否重新加载？"
+    },
+	"file":{
+		"new": "新建",
+		"open": "打开",
+		"save": "保存",
+		"export": "Export"
+	}
+}
